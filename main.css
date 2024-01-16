@@ -1,0 +1,14 @@
+div{
+    width: 500px;
+    position: relative;
+    height: 500px;
+    margin: 180px
+}
+p{
+    font-size: 25px;
+    background-color: #eee;
+    padding: 10px;
+    text-align: center;
+    width: fit-content;
+    margin: 0 auto
+}
